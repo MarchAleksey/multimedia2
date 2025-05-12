@@ -1,4 +1,4 @@
-# Multimedia_2semester
+# Multimedia_2
 
 **Студент: Марченко Алексей Эдуардович**
 
