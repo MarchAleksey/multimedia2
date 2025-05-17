@@ -31,7 +31,7 @@
 ### 1. Выбор начальных условий  
 
 #### a. Выбор набора данных  
-**Датасет**: [Car Plate Detection](https://www.kaggle.com/datasets/mahdifaour/tanks-dataset)  
+**Датасет**: [Car Plate Detection](https://www.kaggle.com/datasets/nimapourmoradi/car-plate-detection-yolov8?select=data.yaml)  
 **Обоснование**:  
 - Практическая задача: Распознавание номерных знаков используется в системах контроля доступа, парковки, безопасности и т.д. Актуально для регионов с уникальными номерами.  
 - Разделение на выборки: Train/val/test позволяет корректно оценить качество модели.  
